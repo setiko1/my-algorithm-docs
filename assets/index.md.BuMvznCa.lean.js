@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as r,ae as i}from"./chunks/framework.Cthp9TdA.js";const c=JSON.parse('{"title":"我的算法笔记","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"};function o(n,e,s,_,d,h){return r(),a("div",null,e[0]||(e[0]=[i("",2)]))}const f=t(l,[["render",o]]);export{c as __pageData,f as default};
